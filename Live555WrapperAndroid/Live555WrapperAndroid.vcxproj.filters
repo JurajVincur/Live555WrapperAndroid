@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\Live555WrapperWin\Live555WrapperWin\dllmain.cpp" />
+    <ClCompile Include="..\..\Live555WrapperWin\Live555WrapperWin\LoggingUsageEnvironment.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Live555WrapperWin\Live555WrapperWin\LoggingUsageEnvironment.hh" />
+    <ClInclude Include="..\..\Live555WrapperWin\Live555WrapperWin\RTSPService.hh" />
+  </ItemGroup>
+</Project>
